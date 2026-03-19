@@ -1,0 +1,20 @@
+form {
+    max-width: 400px;
+    margin: 20px auto;
+}
+input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 15px;
+}
+button {
+    width: 100%;
+    padding: 10px;
+    background-color: rgb(52, 15, 87);
+    color: blueviolet;
+    cursor: pointer;
+    font-size: 16px;
+}
+button:hover {
+    background-color: rgb(105, 44, 161);
+}
